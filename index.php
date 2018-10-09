@@ -87,11 +87,9 @@
 							<img src="assets/images/text.png" alt="speaker img">						
 								</div>
 							</div>
-
 						</div>
 					</div>
 					<!-- End hero featured area -->
-
 				</div>
 			</div>
 		</div>
@@ -115,6 +113,7 @@
 								</div>
 								<div class="col-md-6">
 									<div class="mu-about-right">
+										//konten
 										<h2>Tahukah kamu?</h2>
 										<p>Devi Putri</p>
 
@@ -125,7 +124,6 @@
 								</div>
 							</div>
 							<!-- End Feature Content -->
-
 						</div>
 					</div>
 				</div>
